@@ -1,0 +1,7 @@
+{
+  "name": "MineWikia",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
