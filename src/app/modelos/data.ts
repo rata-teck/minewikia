@@ -12,5 +12,7 @@ export interface Data {
   animales : Array<Animal>,
   monstruos : Array<Mounstro>,
   minerales : Array<Mineral>,
-
+  materiales :Array<Material>,
+  herramientas : Array<Herramienta>,
+  alimentos : Array<Alimento>
 }
